@@ -27,7 +27,7 @@ Here are some technologies and tools that I'm familiar with:
 
 Here are some of my web development projects:
 
-1. [task-management-server-nodejs]([link-to-project-2](https://github.com/phucanhle/task-management-server-nodejs) - A server that manages tasks.
+1. [task-management-server-nodejs](https://github.com/phucanhle/task-management-server-nodejs) - A server that manages tasks.
 2. [blog-server-nodejs](https://github.com/phucanhle/blog-server-nodejs) - A server that manages users and their posts. Building by NodeJS, ExpressJS and MongoDB.
    
 ## 🤝 Connect with Me
