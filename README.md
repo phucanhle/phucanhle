@@ -27,12 +27,12 @@ Here are some technologies and tools that I'm familiar with:
 
 Here are some of my web development projects:
 
-1. [my-portfolio](link-to-project-2) - This is my portfolio built with the React and Redux libraries.
+1. [task-management-server-nodejs]([link-to-project-2](https://github.com/phucanhle/task-management-server-nodejs) - A server that manages tasks.
 2. [blog-server-nodejs](https://github.com/phucanhle/blog-server-nodejs) - A server that manages users and their posts. Building by NodeJS, ExpressJS and MongoDB.
    
 ## 🤝 Connect with Me
 
--   LinkedIn: [Phuc Anh Le on LinkedIn](https://www.linkedin.com/in/ph%C3%BAc-anh-l%C3%AA-021388226)
+-   LinkedIn: [Phuc Anh Le on LinkedIn](https://www.linkedin.com/in/phucanhle2601)
 -   Twitter: [@PhucAnhLee](https://twitter.com/PhucanhLee)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding! 🚀
