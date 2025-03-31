@@ -1,31 +1,38 @@
-# 👋 Hello, I'm Phuc Anh Le!
+# 👋 Hi, I'm Phuc Anh Le!
 
-Welcome to my GitHub profile! 
-I'm a software engineer with a keen interest in web development. I enjoy building full-stack web projects.
+I'm a passionate software engineer dedicated to crafting modern, scalable web applications. My GitHub repositories reflect a wide range of projects—from sleek, interactive front-end interfaces to robust back-end systems—demonstrating my continuous pursuit of innovation and excellence in software development.
 
 ## 🚀 About Me
 
--   📫 Email: lephucanh2601@gmail.com
--   😄 Pronouns: He/Him
+- 📫 Email: lephucanh2601@gmail.com  
+- 😄 Pronouns: He/Him  
 
-## 🔧 Technologies & Tools
+## 🔧 What I Do
 
-Here are some technologies and tools that I'm familiar with:
+I specialize in developing user-centric web solutions using a variety of technologies and frameworks, including:
 
--   JavaScript
--   React
--   Node.js
--   HTML/CSS
--   Git
--   ...
-## 📊 GitHub Stats
+- **JavaScript & TypeScript**  
+- **React & Next.js**  
+- **Node.js & Express**  
+- **HTML/CSS & Responsive Design**  
+- **RESTful APIs**
 
-[![Phuc Anh Le's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phucanhle&show_icons=true&hide_title=true&hide=contribs)](https://github.com/phucanhle)
+My projects not only showcase my technical skills but also highlight my passion for learning new tools and methodologies to improve performance, usability, and overall user experience.
 
-   
+## 📂 Featured Projects
+
+On my GitHub, you'll find a collection of projects that illustrate:
+- **Innovative Full-Stack Applications:** Building seamless connections between front-end and back-end.
+- **Real-Time Data Processing:** Crafting applications that process and display dynamic data efficiently.
+- **UX/UI Experiments:** Focusing on clean, responsive, and intuitive designs.
+
+Feel free to explore my repositories to see how I turn creative ideas into practical solutions.
+
 ## 🤝 Connect with Me
 
--   LinkedIn: [Phuc Anh Le on LinkedIn](https://www.linkedin.com/in/phucanhle2601)
--   Twitter: [@PhucAnhLee](https://twitter.com/PhucanhLee)
+I'm always open to new collaborations, discussions, and opportunities to learn. Let’s connect:
 
-Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas. Happy coding! 🚀
+- [LinkedIn: Phuc Anh Le](https://www.linkedin.com/in/phucanhle2601)
+- [Twitter: @PhucAnhLee](https://twitter.com/PhucAnhLee)
+
+Happy coding, and welcome to my GitHub space! 🚀
